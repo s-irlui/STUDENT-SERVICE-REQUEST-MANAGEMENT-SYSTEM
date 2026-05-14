@@ -33,7 +33,7 @@ const Sidebar = () => {
       </nav>
 
       <div className="p-6 text-xs text-slate-500 border-t border-slate-700">
-        © 2026 Student Services v1.0
+         2026 Student Services v1.0
       </div>
     </aside>
   );
