@@ -21,3 +21,5 @@ export const useRequests = () => {
 
   return { data, isLoading, refreshData };
 };
+
+// Na by the way ,,,This architecture of ours follows the D.R.Y (Don't Repeat Yourself) principle perfectly by reusing the useRequests hook across both student and admin views.
