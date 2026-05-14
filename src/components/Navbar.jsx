@@ -1,3 +1,8 @@
+// Hii sijaweka nataka kwanza mwone kati ya navbar na sidebar gani iko ON
+
+
+
+
 import { Link } from 'react-router-dom';
 
 const Navbar = () => (
