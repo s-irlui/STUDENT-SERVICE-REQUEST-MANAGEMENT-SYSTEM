@@ -1,8 +1,8 @@
 export const getStatusStyle = (status) => {
   const styles = {
-    Approved: 'bg-green-100 text-green-700',
-    Rejected: 'bg-red-100 text-red-700',
-    Pending: 'bg-yellow-100 text-yellow-700'
+    Approved: 'bg-emerald-100 text-emerald-700 ring-1 ring-emerald-200',
+    Rejected: 'bg-rose-100 text-rose-700 ring-1 ring-rose-200',
+    Pending: 'bg-amber-100 text-amber-700 ring-1 ring-amber-200'
   };
-  return styles[status] || 'bg-gray-100';
+  return styles[status] || 'bg-slate-100 text-slate-700 ring-1 ring-slate-200';
 };
