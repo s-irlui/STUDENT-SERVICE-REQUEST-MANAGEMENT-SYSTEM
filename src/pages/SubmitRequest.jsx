@@ -21,7 +21,7 @@ const SubmitRequest = () => {
     <div className="mx-auto max-w-2xl">
       <header className="mb-6">
         <p className="text-sm font-bold uppercase text-teal-700">New Request</p>
-        <h1 className="mt-2 text-3xl font-black tracking-normal text-slate-950">Submit a Service Request</h1>
+        <h1 className="font-heading mt-2 text-3xl font-black tracking-normal text-slate-950">Submit a Service Request</h1>
         <p className="mt-2 text-sm leading-6 text-slate-600">
           Fill in the details below and your request will be added to the queue for sure.
         </p>

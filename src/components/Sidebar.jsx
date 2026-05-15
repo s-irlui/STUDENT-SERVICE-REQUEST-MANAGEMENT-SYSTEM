@@ -17,7 +17,7 @@ const Sidebar = () => {
             SH
           </span>
           <span>
-            <span className="block text-lg font-black leading-tight tracking-normal text-slate-950">
+            <span className="font-heading block text-lg font-black leading-tight tracking-normal text-slate-950">
               StudentHub
             </span>
             <span className="hidden text-xs font-medium text-slate-500 sm:block">
@@ -50,8 +50,8 @@ const Sidebar = () => {
       </nav>
 
       <div className="mt-6 hidden rounded-lg border border-slate-200 bg-slate-50 p-4 lg:block">
-        <p className="text-xs font-bold uppercase text-slate-500"></p>
-        <p className="mt-1 text-sm font-semibold text-slate-800">2026 Student service <v1 className="0"></v1></p>
+        <p className="text-xs font-bold uppercase text-slate-500">2026 Portal</p>
+        <p className="mt-1 text-sm font-semibold text-slate-800">Student Services v1.0</p>
       </div>
     </aside>
   );

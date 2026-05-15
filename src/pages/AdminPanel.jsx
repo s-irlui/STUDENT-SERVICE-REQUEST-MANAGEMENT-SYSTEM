@@ -14,7 +14,7 @@ const AdminPanel = () => {
     <div className="space-y-6">
       <header className="rounded-lg bg-white p-6 shadow-sm ring-1 ring-slate-200">
         <p className="text-sm font-bold uppercase text-teal-700">Admin Control</p>
-        <h1 className="mt-2 text-3xl font-black tracking-normal text-slate-950">Request Management</h1>
+        <h1 className="font-heading mt-2 text-3xl font-black tracking-normal text-slate-950">Request Management</h1>
         <p className="mt-2 max-w-2xl text-sm leading-6 text-slate-600">
           Review submitted requests and update their progress.
         </p>
