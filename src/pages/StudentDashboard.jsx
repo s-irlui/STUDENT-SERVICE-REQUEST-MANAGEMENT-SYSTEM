@@ -35,7 +35,6 @@ const StudentDashboard = () => {
           <p className="font-heading mt-2 text-3xl font-black text-emerald-600">{approvedRequests}</p>
         </div>
       </section>
-// hii ni risky
       <section className="rounded-lg bg-white shadow-sm ring-1 ring-slate-200">
         <div className="border-b border-slate-200 px-5 py-4">
           <h2 className="font-heading text-lg font-black text-slate-950">Recent Requests</h2>
